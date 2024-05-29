@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 29.99,
+        "currency": "USD",
+        "features": [
+            "Equipment Access",
+            "Locker Room",
+            "1 Free PT Session/Month",
+            "Free Wi-Fi"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": 49.99,
+        "currency": "USD",
+        "features": [
+            "Equipment Access",
+            "Locker Room",
+            "3 Free PT Sessions/Month",
+            "Group Fitness Classes",
+            "Free Wi-Fi"
+            
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": 79.99,
+        "currency": "USD",
+        "features": [
+            "Equipment Access",
+            "Locker Room",
+            "Unlimited PT Sessions",
+            "Group Fitness Classes",
+            "Free Wi-Fi"
+            
+        ]
+    }
+]
